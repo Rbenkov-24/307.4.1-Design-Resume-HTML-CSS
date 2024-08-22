@@ -1,0 +1,76 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0f8d83;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+#resume-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 90%; 
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+#profile-picture {
+  border-radius: 50%;
+  width: 120px; 
+  height: 120px; 
+  display: block;
+  margin: 0 auto;
+}
+
+header h1 {
+  color: #165790;
+  font-size: 4vw; 
+  margin-bottom: 10px;
+}
+
+header div {
+  margin-top: 10px;
+}
+
+header span {
+  margin: 0 10px;
+}
+
+h2 {
+  color: #165790;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #165790;
+  margin-top: 20px; 
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+  text-align: left; 
+}
+
+section {
+  padding: 20px;
+  text-align: left;
+}
+
+section p {
+  margin: 0;
+}
+
+.skill-category {
+  margin-top: 20px;
+}
+
+.job {
+  margin-bottom: 20px; 
+}
